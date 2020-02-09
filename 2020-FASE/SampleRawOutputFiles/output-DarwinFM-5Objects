@@ -1,0 +1,264 @@
+% START OF SYSTEM OUTPUT
+Defaulting to tptp format.
+SZS status Satisfiable for /tmp/astvZIeh8H/SOT_2li0XC
+
+MODEL (TPTP):
+SZS output start FiniteModel for /tmp/astvZIeh8H/SOT_2li0XC
+fof(interpretation_domain, fi_domain,
+    ! [X] : ( X = e1 | X = e2 | X = e3 | X = e4 | X = e5 )
+    ).
+
+fof(interpretation_domain_distinct, fi_domain,
+    ( e1 != e2 & e1 != e3 & e1 != e4 & e1 != e5 & e2 != e3 & e2 != e4 & e2 != e5 & e3 != e4 & e3 != e5 & e4 != e5 )
+    ).
+
+fof(interpretation_terms, fi_functors, (
+    ( (eo1 = e1) )
+    &
+    ( (eo2 = e2) )
+    &
+    ( (eo3 = e3) )
+    &
+    ( (eo4 = e4) )
+    &
+    ( (esk10_0 = e1) )
+    &
+    ( (esk11_0 = e1) )
+    &
+    ( ! [X0] : (esk12_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk13_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk14_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk15_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk16_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk17_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk18_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk19_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk1_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk20_1(X0) = e1) )
+    &
+    ( ! [X0, X1] :  ( (esk21_1(X0) = X1) <=> (
+        ( ( (X1 = e1) ) & ~( (X0 = e5) ) )
+        |
+        ( (X0 = e5) & (X1 = e4) )
+    ) ) )
+    &
+    ( ! [X0] : (esk22_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk23_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk2_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk3_1(X0) = e1) )
+    &
+    ( ! [X0] : (esk4_1(X0) = e1) )
+    &
+    ( ! [X0, X1] : (esk5_2(X0, X1) = e1) )
+    &
+    ( (esk6_0 = e1) )
+    &
+    ( (esk7_0 = e1) )
+    &
+    ( (esk8_0 = e1) )
+    &
+    ( (esk9_0 = e1) )
+    &
+    ( (o1 = e5) )
+    ) ).
+
+fof(interpretation_atoms, fi_predicates, (
+    ( ! [X0] :  ( e_DeepHistory_EntryType(X0) <=> (
+        ( (X0 = e3) )
+    ) ) )
+    &
+    ( ! [X0] :  ( e_History_EntryType(X0) <=> (
+        ( (X0 = e2) )
+    ) ) )
+    &
+    ( ! [X0] :  ( e_Normal_EntryType(X0) <=> (
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0] :  ( e_o_1(X0) <=> (
+        ( (X0 = e4) )
+    ) ) )
+    &
+    ( ! [X0] :  ( epred1_1(X0) <=> (
+        ( (X0 = e3) )
+        |
+        ( (X0 = e2) )
+        |
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0] :  ( epred2_1(X0) <=> (
+        ( (X0 = e5) )
+    ) ) )
+    &
+    ( ! [X0] :  ( epred3_1(X0) <=> (
+        ( (X0 = e5) )
+        |
+        ( (X0 = e3) )
+        |
+        ( (X0 = e2) )
+        |
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0] :  ( epred4_1(X0) <=> (
+        ( (X0 = e5) )
+        |
+        ( (X0 = e3) )
+        |
+        ( (X0 = e2) )
+        |
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0] :  ( epred5_1(X0) <=> (
+        ( (X0 = e5) )
+        |
+        ( (X0 = e3) )
+        |
+        ( (X0 = e2) )
+        |
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0] :  ( epred6_1(X0) <=> (
+        ( (X0 = e5) )
+        |
+        ( (X0 = e4) )
+        |
+        ( (X0 = e3) )
+        |
+        ( (X0 = e2) )
+        |
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0] :  ( object(X0) <=> (
+        ( (X0 = e5) )
+        |
+        ( (X0 = e4) )
+        |
+        ( (X0 = e3) )
+        |
+        ( (X0 = e2) )
+        |
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0, X1] :  ( r_Type_Entry(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_incomingTransitions_Vertex(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_outgoingTransitions_Vertex(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_StateInRegion(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_child(X0, X1) <=> $false ) )
+    &
+    ( ! [X0] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoIncoming(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoOutgoing(X0) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_entryInRegion(X0, X1) <=> $false ) )
+    &
+    ( ! [X0] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_hasMultipleRegions(X0) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_incomingToEntry(X0, X1) <=> $false ) )
+    &
+    ( ! [X0] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleEntryInRegion(X0) <=> $false ) )
+    &
+    ( ! [X0, X1, X2] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleTransitionFromEntry(X0, X1, X2) <=> $false ) )
+    &
+    ( ! [X0] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noEntryInRegion(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noOutgoingTransitionFromEntry(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noStateInRegion(X0) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromExit(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromFinal(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1, X2] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transition(X0, X1, X2) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionFrom(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionTo(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_regions_CompositeElement(X0, X1) <=> (
+        ( (X0 = e4) & (X1 = e5) )
+    ) ) )
+    &
+    ( ! [X0, X1] :  ( r_source_Transition(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_target_Transition(X0, X1) <=> $false ) )
+    &
+    ( ! [X0, X1] :  ( r_vertices_Region(X0, X1) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_Choice(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_CompositeElement(X0) <=> (
+        ( (X0 = e4) )
+    ) ) )
+    &
+    ( ! [X0] :  ( t_CompositeElement_DefinedPart(X0) <=> (
+        ( (X0 = e4) )
+    ) ) )
+    &
+    ( ! [X0] :  ( t_CompositeElement_UndefinedPart(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_Entry(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_EntryType(X0) <=> (
+        ( (X0 = e3) )
+        |
+        ( (X0 = e2) )
+        |
+        ( (X0 = e1) )
+    ) ) )
+    &
+    ( ! [X0] :  ( t_Exit(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_FinalState(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_Pseudostate(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_Region(X0) <=> (
+        ( (X0 = e5) )
+    ) ) )
+    &
+    ( ! [X0] :  ( t_RegularState(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_State(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_Statechart(X0) <=> (
+        ( (X0 = e4) )
+    ) ) )
+    &
+    ( ! [X0] :  ( t_Statechart_DefinedPart(X0) <=> (
+        ( (X0 = e4) )
+    ) ) )
+    &
+    ( ! [X0] :  ( t_Statechart_UndefinedPart(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_Transition(X0) <=> $false ) )
+    &
+    ( ! [X0] :  ( t_Vertex(X0) <=> $false ) )
+    ) ).
+SZS output end FiniteModel for /tmp/astvZIeh8H/SOT_2li0XC
+
+% END OF SYSTEM OUTPUT
+% RESULT: SOT_2li0XC - DarwinFM---1.4.5 says Satisfiable - CPU = 3.06 WC = 3.12 
+% OUTPUT: SOT_2li0XC - DarwinFM---1.4.5 says FiniteModel - CPU = 3.06 WC = 3.12 

@@ -1,0 +1,47 @@
+% START OF SYSTEM OUTPUT
+E-Darwin 1.5 2012/06/20 (based on Darwin 1.3)
+
+
+Defaulting to tptp format.
+Parsing /tmp/1ZNJlxXSWJ/SOT_mU4tSw ...
+
+
+
+Proving  ...
+
+% SZS status Satisfiable for /tmp/1ZNJlxXSWJ/SOT_mU4tSw
+
+START OF MODEL (DIG):
+(sK20(o1) = eo4)
+e_DeepHistory_EntryType(eo3)
+e_History_EntryType(eo2)
+e_Normal_EntryType(eo1)
+e_o_1(eo4)
+object(o1)
+object(eo4)
+object(eo1)
+object(eo2)
+object(eo3)
+object(sK20(o1))
+r_regions_CompositeElement(eo4, o1)
+r_regions_CompositeElement(sK20(o1), o1)
+sP0(eo2)
+sP1(eo3)
+sP10(o1)
+sP7(eo1)
+sP7(eo2)
+sP7(eo3)
+t_CompositeElement(eo4)
+t_CompositeElement(sK20(o1))
+t_CompositeElement_DefinedPart(eo4)
+t_EntryType(eo1)
+t_EntryType(eo2)
+t_EntryType(eo3)
+t_Region(o1)
+t_Statechart(eo4)
+t_Statechart_DefinedPart(eo4)
+END OF MODEL
+
+% END OF SYSTEM OUTPUT
+% RESULT: SOT_mU4tSw - E-Darwin---1.5 says Satisfiable - CPU = 5.86 WC = 5.95 
+% OUTPUT: SOT_mU4tSw - E-Darwin---1.5 says Model - CPU = 5.86 WC = 5.95 

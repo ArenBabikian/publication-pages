@@ -1,0 +1,636 @@
+% START OF SYSTEM OUTPUT
+% SZS status Satisfiable
+% SZS output start Model
+tff(tptp_fun__i_val_6_type, type, (
+   tptp_fun__i_val_6: $i)).
+tff(tptp_fun_A_6_type, type, (
+   tptp_fun_A_6: $i)).
+tff(tptp_fun__i_val_0_type, type, (
+   tptp_fun__i_val_0: $i)).
+tff(tptp_fun_B_5_type, type, (
+   tptp_fun_B_5: $i)).
+tff(tptp_fun__i_val_12_type, type, (
+   tptp_fun__i_val_12: $i)).
+tff(o4_type, type, (
+   o4: $i)).
+tff(tptp_fun__i_val_14_type, type, (
+   tptp_fun__i_val_14: $i)).
+tff(o6_type, type, (
+   o6: $i)).
+tff(tptp_fun__i_val_22_type, type, (
+   tptp_fun__i_val_22: $i)).
+tff(o14_type, type, (
+   o14: $i)).
+tff(tptp_fun__i_val_4_type, type, (
+   tptp_fun__i_val_4: $i)).
+tff(tptp_fun_B_9_type, type, (
+   tptp_fun_B_9: $i)).
+tff(tptp_fun__i_val_20_type, type, (
+   tptp_fun__i_val_20: $i)).
+tff(o12_type, type, (
+   o12: $i)).
+tff(tptp_fun__i_val_24_type, type, (
+   tptp_fun__i_val_24: $i)).
+tff(o16_type, type, (
+   o16: $i)).
+tff(tptp_fun__i_val_15_type, type, (
+   tptp_fun__i_val_15: $i)).
+tff(o7_type, type, (
+   o7: $i)).
+tff(tptp_fun__i_val_3_type, type, (
+   tptp_fun__i_val_3: $i)).
+tff(tptp_fun_A_10_type, type, (
+   tptp_fun_A_10: $i)).
+tff(tptp_fun__i_val_16_type, type, (
+   tptp_fun__i_val_16: $i)).
+tff(o8_type, type, (
+   o8: $i)).
+tff(tptp_fun__i_val_13_type, type, (
+   tptp_fun__i_val_13: $i)).
+tff(o5_type, type, (
+   o5: $i)).
+tff(tptp_fun__i_val_7_type, type, (
+   tptp_fun__i_val_7: $i)).
+tff(eo3_type, type, (
+   eo3: $i)).
+tff(tptp_fun__i_val_2_type, type, (
+   tptp_fun__i_val_2: $i)).
+tff(tptp_fun_B_7_type, type, (
+   tptp_fun_B_7: $i)).
+tff(tptp_fun__i_val_10_type, type, (
+   tptp_fun__i_val_10: $i)).
+tff(o2_type, type, (
+   o2: $i)).
+tff(tptp_fun__i_val_17_type, type, (
+   tptp_fun__i_val_17: $i)).
+tff(o9_type, type, (
+   o9: $i)).
+tff(tptp_fun__i_val_23_type, type, (
+   tptp_fun__i_val_23: $i)).
+tff(o15_type, type, (
+   o15: $i)).
+tff(tptp_fun__i_val_18_type, type, (
+   tptp_fun__i_val_18: $i)).
+tff(o10_type, type, (
+   o10: $i)).
+tff(tptp_fun__i_val_1_type, type, (
+   tptp_fun__i_val_1: $i)).
+tff(tptp_fun_A_8_type, type, (
+   tptp_fun_A_8: $i)).
+tff(eo2_type, type, (
+   eo2: $i)).
+tff(tptp_fun__i_val_9_type, type, (
+   tptp_fun__i_val_9: $i)).
+tff(o1_type, type, (
+   o1: $i)).
+tff(tptp_fun__i_val_8_type, type, (
+   tptp_fun__i_val_8: $i)).
+tff(eo4_type, type, (
+   eo4: $i)).
+tff(tptp_fun__i_val_5_type, type, (
+   tptp_fun__i_val_5: $i)).
+tff(eo1_type, type, (
+   eo1: $i)).
+tff(tptp_fun__i_val_21_type, type, (
+   tptp_fun__i_val_21: $i)).
+tff(o13_type, type, (
+   o13: $i)).
+tff(tptp_fun__i_val_19_type, type, (
+   tptp_fun__i_val_19: $i)).
+tff(o11_type, type, (
+   o11: $i)).
+tff(tptp_fun__i_val_11_type, type, (
+   tptp_fun__i_val_11: $i)).
+tff(o3_type, type, (
+   o3: $i)).
+tff(t_CompositeElement_833_type, type, (
+   t_CompositeElement_833: $i > $o)).
+tff(k!832_type, type, (
+   k!832: $i > $i)).
+tff(t_CompositeElement_type, type, (
+   t_CompositeElement: $i > $o)).
+tff(t_Transition_type, type, (
+   t_Transition: $i > $o)).
+tff(t_Pseudostate_835_type, type, (
+   t_Pseudostate_835: $i > $o)).
+tff(t_Pseudostate_type, type, (
+   t_Pseudostate: $i > $o)).
+tff(t_FinalState_834_type, type, (
+   t_FinalState_834: $i > $o)).
+tff(t_FinalState_type, type, (
+   t_FinalState: $i > $o)).
+tff(t_Exit_type, type, (
+   t_Exit: $i > $o)).
+tff(t_CompositeElement_UndefinedPart_type, type, (
+   t_CompositeElement_UndefinedPart: $i > $o)).
+tff(tptp_fun_B_11_847_type, type, (
+   tptp_fun_B_11_847: $i > $i)).
+tff(r_regions_CompositeElement_850_type, type, (
+   r_regions_CompositeElement_850: ( $i * $i ) > $o)).
+tff(t_EntryType_836_type, type, (
+   t_EntryType_836: $i > $o)).
+tff(t_EntryType_type, type, (
+   t_EntryType: $i > $o)).
+tff(r_Type_Entry_842_type, type, (
+   r_Type_Entry_842: ( $i * $i ) > $o)).
+tff(t_Choice_type, type, (
+   t_Choice: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_hasMultipleRegions_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_hasMultipleRegions: $i > $o)).
+tff(t_Vertex_838_type, type, (
+   t_Vertex_838: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_incomingToEntry_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_incomingToEntry: ( $i * $i ) > $o)).
+tff(r_vertices_Region_839_type, type, (
+   r_vertices_Region_839: ( $i * $i ) > $o)).
+tff(e_History_EntryType_837_type, type, (
+   e_History_EntryType_837: $i > $o)).
+tff(e_History_EntryType_type, type, (
+   e_History_EntryType: $i > $o)).
+tff(e_Normal_EntryType_849_type, type, (
+   e_Normal_EntryType_849: $i > $o)).
+tff(t_Vertex_type, type, (
+   t_Vertex: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionTo_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionTo: ( $i * $i ) > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_entryInRegion_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_entryInRegion: ( $i * $i ) > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_child_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_child: ( $i * $i ) > $o)).
+tff(r_vertices_Region_type, type, (
+   r_vertices_Region: ( $i * $i ) > $o)).
+tff(tptp_fun_V_variable_virtual0_4_type, type, (
+   tptp_fun_V_variable_virtual0_4: ( $i * $i ) > $i)).
+tff(e_DeepHistory_EntryType_843_type, type, (
+   e_DeepHistory_EntryType_843: $i > $o)).
+tff(t_Statechart_846_type, type, (
+   t_Statechart_846: $i > $o)).
+tff(tptp_fun_V_variable_region2_2_type, type, (
+   tptp_fun_V_variable_region2_2: $i > $i)).
+tff(t_RegularState_840_type, type, (
+   t_RegularState_840: $i > $o)).
+tff(t_RegularState_type, type, (
+   t_RegularState: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_StateInRegion_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_StateInRegion: ( $i * $i ) > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleEntryInRegion_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleEntryInRegion: $i > $o)).
+tff(t_Region_841_type, type, (
+   t_Region_841: $i > $o)).
+tff(t_Region_type, type, (
+   t_Region: $i > $o)).
+tff(t_Statechart_UndefinedPart_type, type, (
+   t_Statechart_UndefinedPart: $i > $o)).
+tff(r_incomingTransitions_Vertex_type, type, (
+   r_incomingTransitions_Vertex: ( $i * $i ) > $o)).
+tff(tptp_fun_V_variable_e1_1_type, type, (
+   tptp_fun_V_variable_e1_1: $i > $i)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleTransitionFromEntry_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleTransitionFromEntry: ( $i * $i * $i ) > $o)).
+tff(r_outgoingTransitions_Vertex_type, type, (
+   r_outgoingTransitions_Vertex: ( $i * $i ) > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromExit_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromExit: ( $i * $i ) > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noOutgoingTransitionFromEntry_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noOutgoingTransitionFromEntry: $i > $o)).
+tff(r_Type_Entry_type, type, (
+   r_Type_Entry: ( $i * $i ) > $o)).
+tff(e_DeepHistory_EntryType_type, type, (
+   e_DeepHistory_EntryType: $i > $o)).
+tff(e_o_1_844_type, type, (
+   e_o_1_844: $i > $o)).
+tff(e_o_1_type, type, (
+   e_o_1: $i > $o)).
+tff(tptp_fun_V_variable_region1_3_type, type, (
+   tptp_fun_V_variable_region1_3: $i > $i)).
+tff(t_Statechart_DefinedPart_845_type, type, (
+   t_Statechart_DefinedPart_845: $i > $o)).
+tff(t_Statechart_DefinedPart_type, type, (
+   t_Statechart_DefinedPart: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noStateInRegion_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noStateInRegion: $i > $o)).
+tff(tptp_fun_V_trg_1_14_type, type, (
+   tptp_fun_V_trg_1_14: $i > $i)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoOutgoing_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoOutgoing: $i > $o)).
+tff(tptp_fun_B_13_type, type, (
+   tptp_fun_B_13: $i > $i)).
+tff(t_Statechart_type, type, (
+   t_Statechart: $i > $o)).
+tff(t_Entry_851_type, type, (
+   t_Entry_851: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noEntryInRegion_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noEntryInRegion: $i > $o)).
+tff(tptp_fun_B_12_type, type, (
+   tptp_fun_B_12: $i > $i)).
+tff(t_State_type, type, (
+   t_State: $i > $o)).
+tff(tptp_fun_B_11_type, type, (
+   tptp_fun_B_11: $i > $i)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transition_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transition: ( $i * $i * $i ) > $o)).
+tff(t_CompositeElement_DefinedPart_852_type, type, (
+   t_CompositeElement_DefinedPart_852: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoIncoming_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoIncoming: $i > $o)).
+tff(r_source_Transition_type, type, (
+   r_source_Transition: ( $i * $i ) > $o)).
+tff(object_848_type, type, (
+   object_848: $i > $o)).
+tff(object_type, type, (
+   object: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromFinal_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromFinal: ( $i * $i ) > $o)).
+tff(e_Normal_EntryType_type, type, (
+   e_Normal_EntryType: $i > $o)).
+tff(r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionFrom_type, type, (
+   r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionFrom: ( $i * $i ) > $o)).
+tff(tptp_fun_V_variable_e2_0_type, type, (
+   tptp_fun_V_variable_e2_0: $i > $i)).
+tff(r_regions_CompositeElement_type, type, (
+   r_regions_CompositeElement: ( $i * $i ) > $o)).
+tff(t_Entry_type, type, (
+   t_Entry: $i > $o)).
+tff(r_target_Transition_type, type, (
+   r_target_Transition: ( $i * $i ) > $o)).
+tff(tptp_fun_V_trg_1_15_type, type, (
+   tptp_fun_V_trg_1_15: $i > $i)).
+tff(t_CompositeElement_DefinedPart_type, type, (
+   t_CompositeElement_DefinedPart: $i > $o)).
+tff(formula1, axiom,
+    (A!6 = $i!val!6)).
+tff(formula2, axiom,
+    (B!5 = $i!val!0)).
+tff(formula3, axiom,
+    (o4 = $i!val!12)).
+tff(formula4, axiom,
+    (o6 = $i!val!14)).
+tff(formula5, axiom,
+    (o14 = $i!val!22)).
+tff(formula6, axiom,
+    (B!9 = $i!val!4)).
+tff(formula7, axiom,
+    (o12 = $i!val!20)).
+tff(formula8, axiom,
+    (o16 = $i!val!24)).
+tff(formula9, axiom,
+    (o7 = $i!val!15)).
+tff(formula10, axiom,
+    (A!10 = $i!val!3)).
+tff(formula11, axiom,
+    (o8 = $i!val!16)).
+tff(formula12, axiom,
+    (o5 = $i!val!13)).
+tff(formula13, axiom,
+    (eo3 = $i!val!7)).
+tff(formula14, axiom,
+    (B!7 = $i!val!2)).
+tff(formula15, axiom,
+    (o2 = $i!val!10)).
+tff(formula16, axiom,
+    (o9 = $i!val!17)).
+tff(formula17, axiom,
+    (o15 = $i!val!23)).
+tff(formula18, axiom,
+    (o10 = $i!val!18)).
+tff(formula19, axiom,
+    (A!8 = $i!val!1)).
+tff(formula20, axiom,
+    (eo2 = $i!val!6)).
+tff(formula21, axiom,
+    (o1 = $i!val!9)).
+tff(formula22, axiom,
+    (eo4 = $i!val!8)).
+tff(formula23, axiom,
+    (eo1 = $i!val!5)).
+tff(formula24, axiom,
+    (o13 = $i!val!21)).
+tff(formula25, axiom,
+    (o11 = $i!val!19)).
+tff(formula26, axiom,
+    (o3 = $i!val!11)).
+tff(formula27, axiom,
+    ![X0: $i] : (t_CompositeElement(X0) <=> t_CompositeElement_833(k!832(X0)))).
+tff(formula28, axiom,
+    ![X0: $i] : (t_Transition(X0) <=> $false)).
+tff(formula29, axiom,
+    ![X0: $i] : (t_Pseudostate(X0) <=> t_Pseudostate_835(k!832(X0)))).
+tff(formula30, axiom,
+    ![X0: $i] : (t_FinalState(X0) <=> t_FinalState_834(k!832(X0)))).
+tff(formula31, axiom,
+    ![X0: $i] : (t_Exit(X0) <=> $false)).
+tff(formula32, axiom,
+    ![X0: $i] : (t_CompositeElement_UndefinedPart(X0) <=> $false)).
+tff(formula33, axiom,
+    (tptp_fun_B_11_847($i!val!15) = $i!val!18)).
+tff(formula34, axiom,
+    (tptp_fun_B_11_847($i!val!14) = $i!val!21)).
+tff(formula35, axiom,
+    ![X0: $i] : ((~((($i!val!15 = X0)) | (($i!val!14 = X0)))) => (tptp_fun_B_11_847(X0) = $i!val!10))).
+tff(formula36, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!10) <=> $true)).
+tff(formula37, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!19) <=> $true)).
+tff(formula38, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!16) <=> $true)).
+tff(formula39, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!24) <=> $true)).
+tff(formula40, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!18) <=> $true)).
+tff(formula41, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!12) <=> $true)).
+tff(formula42, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!20) <=> $true)).
+tff(formula43, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!22) <=> $true)).
+tff(formula44, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!13) <=> $true)).
+tff(formula45, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!21) <=> $true)).
+tff(formula46, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!11) <=> $true)).
+tff(formula47, axiom,
+    (r_regions_CompositeElement_850($i!val!8, $i!val!9) <=> $true)).
+tff(formula48, axiom,
+    ![X0: $i, X1: $i] : ((~((($i!val!8 = X0) & ($i!val!10 = X1)) | (($i!val!8 = X0) & ($i!val!19 = X1)) | (($i!val!8 = X0) & ($i!val!16 = X1)) | (($i!val!8 = X0) & ($i!val!24 = X1)) | (($i!val!8 = X0) & ($i!val!18 = X1)) | (($i!val!8 = X0) & ($i!val!12 = X1)) | (($i!val!8 = X0) & ($i!val!20 = X1)) | (($i!val!8 = X0) & ($i!val!22 = X1)) | (($i!val!8 = X0) & ($i!val!13 = X1)) | (($i!val!8 = X0) & ($i!val!21 = X1)) | (($i!val!8 = X0) & ($i!val!11 = X1)) | (($i!val!8 = X0) & ($i!val!9 = X1)))) => (r_regions_CompositeElement_850(X0, X1) <=> $false))).
+tff(formula49, axiom,
+    (t_FinalState_834($i!val!23) <=> $true)).
+tff(formula50, axiom,
+    (t_FinalState_834($i!val!17) <=> $true)).
+tff(formula51, axiom,
+    (t_FinalState_834($i!val!15) <=> $true)).
+tff(formula52, axiom,
+    ![X0: $i] : ((~((($i!val!23 = X0)) | (($i!val!17 = X0)) | (($i!val!15 = X0)))) => (t_FinalState_834(X0) <=> $false))).
+tff(formula53, axiom,
+    ![X0: $i] : (t_EntryType(X0) <=> t_EntryType_836(k!832(X0)))).
+tff(formula54, axiom,
+    (r_Type_Entry_842($i!val!14, $i!val!6) <=> $true)).
+tff(formula55, axiom,
+    ![X0: $i, X1: $i] : ((~(($i!val!14 = X0) & ($i!val!6 = X1))) => (r_Type_Entry_842(X0, X1) <=> $false))).
+tff(formula56, axiom,
+    ![X0: $i] : (t_Choice(X0) <=> $false)).
+tff(formula57, axiom,
+    ![X0: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_hasMultipleRegions(X0) <=> $false)).
+tff(formula58, axiom,
+    (t_Vertex_838($i!val!23) <=> $true)).
+tff(formula59, axiom,
+    (t_Vertex_838($i!val!17) <=> $true)).
+tff(formula60, axiom,
+    (t_Vertex_838($i!val!15) <=> $true)).
+tff(formula61, axiom,
+    (t_Vertex_838($i!val!14) <=> $true)).
+tff(formula62, axiom,
+    ![X0: $i] : ((~((($i!val!23 = X0)) | (($i!val!17 = X0)) | (($i!val!15 = X0)) | (($i!val!14 = X0)))) => (t_Vertex_838(X0) <=> $false))).
+tff(formula63, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_incomingToEntry(X0, X1) <=> $false)).
+tff(formula64, axiom,
+    (r_vertices_Region_839($i!val!18, $i!val!15) <=> $true)).
+tff(formula65, axiom,
+    (r_vertices_Region_839($i!val!10, $i!val!17) <=> $true)).
+tff(formula66, axiom,
+    (r_vertices_Region_839($i!val!10, $i!val!23) <=> $true)).
+tff(formula67, axiom,
+    (r_vertices_Region_839($i!val!21, $i!val!14) <=> $true)).
+tff(formula68, axiom,
+    ![X0: $i, X1: $i] : ((~((($i!val!18 = X0) & ($i!val!15 = X1)) | (($i!val!10 = X0) & ($i!val!17 = X1)) | (($i!val!10 = X0) & ($i!val!23 = X1)) | (($i!val!21 = X0) & ($i!val!14 = X1)))) => (r_vertices_Region_839(X0, X1) <=> $false))).
+tff(formula69, axiom,
+    ![X0: $i] : (e_History_EntryType(X0) <=> e_History_EntryType_837(k!832(X0)))).
+tff(formula70, axiom,
+    (e_History_EntryType_837($i!val!6) <=> $true)).
+tff(formula71, axiom,
+    ![X0: $i] : ((~(($i!val!6 = X0))) => (e_History_EntryType_837(X0) <=> $false))).
+tff(formula72, axiom,
+    (e_Normal_EntryType_849($i!val!5) <=> $true)).
+tff(formula73, axiom,
+    ![X0: $i] : ((~(($i!val!5 = X0))) => (e_Normal_EntryType_849(X0) <=> $false))).
+tff(formula74, axiom,
+    ![X0: $i] : (t_Vertex(X0) <=> t_Vertex_838(k!832(X0)))).
+tff(formula75, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionTo(X0, X1) <=> $false)).
+tff(formula76, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_entryInRegion(X0, X1) <=> $false)).
+tff(formula77, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_child(X0, X1) <=> $false)).
+tff(formula78, axiom,
+    ![X0: $i, X1: $i] : (r_vertices_Region(X0, X1) <=> r_vertices_Region_839(k!832(X1), k!832(X0)))).
+tff(formula79, axiom,
+    ![X0: $i, X1: $i] : (tptp_fun_V_variable_virtual0_4(X0, X1) = $i!val!16)).
+tff(formula80, axiom,
+    (t_EntryType_836($i!val!5) <=> $true)).
+tff(formula81, axiom,
+    (t_EntryType_836($i!val!6) <=> $true)).
+tff(formula82, axiom,
+    (t_EntryType_836($i!val!7) <=> $true)).
+tff(formula83, axiom,
+    ![X0: $i] : ((~((($i!val!5 = X0)) | (($i!val!6 = X0)) | (($i!val!7 = X0)))) => (t_EntryType_836(X0) <=> $false))).
+tff(formula84, axiom,
+    (e_DeepHistory_EntryType_843($i!val!7) <=> $true)).
+tff(formula85, axiom,
+    ![X0: $i] : ((~(($i!val!7 = X0))) => (e_DeepHistory_EntryType_843(X0) <=> $false))).
+tff(formula86, axiom,
+    (t_Statechart_846($i!val!8) <=> $true)).
+tff(formula87, axiom,
+    ![X0: $i] : ((~(($i!val!8 = X0))) => (t_Statechart_846(X0) <=> $false))).
+tff(formula88, axiom,
+    ![X0: $i] : (tptp_fun_V_variable_region2_2(X0) = $i!val!16)).
+tff(formula89, axiom,
+    ![X0: $i] : (t_RegularState(X0) <=> t_RegularState_840(k!832(X0)))).
+tff(formula90, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_StateInRegion(X0, X1) <=> $false)).
+tff(formula91, axiom,
+    ![X0: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleEntryInRegion(X0) <=> $false)).
+tff(formula92, axiom,
+    ![X0: $i] : (t_Region(X0) <=> t_Region_841(k!832(X0)))).
+tff(formula93, axiom,
+    ![X0: $i] : (t_Statechart_UndefinedPart(X0) <=> $false)).
+tff(formula94, axiom,
+    ![X0: $i, X1: $i] : (r_incomingTransitions_Vertex(X0, X1) <=> $false)).
+tff(formula95, axiom,
+    ![X0: $i] : (tptp_fun_V_variable_e1_1(X0) = $i!val!16)).
+tff(formula96, axiom,
+    ![X0: $i, X1: $i, X2: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_multipleTransitionFromEntry(X0, X1, X2) <=> $false)).
+tff(formula97, axiom,
+    ![X0: $i, X1: $i] : (r_outgoingTransitions_Vertex(X0, X1) <=> $false)).
+tff(formula98, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromExit(X0, X1) <=> $false)).
+tff(formula99, axiom,
+    ![X0: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noOutgoingTransitionFromEntry(X0) <=> $false)).
+tff(formula100, axiom,
+    ![X0: $i, X1: $i] : (r_Type_Entry(X0, X1) <=> r_Type_Entry_842(k!832(X1), k!832(X0)))).
+tff(formula101, axiom,
+    ![X0: $i] : (e_DeepHistory_EntryType(X0) <=> e_DeepHistory_EntryType_843(k!832(X0)))).
+tff(formula102, axiom,
+    ![X0: $i] : (e_o_1(X0) <=> e_o_1_844(k!832(X0)))).
+tff(formula103, axiom,
+    ![X0: $i] : (tptp_fun_V_variable_region1_3(X0) = $i!val!16)).
+tff(formula104, axiom,
+    ![X0: $i] : (t_Statechart_DefinedPart(X0) <=> t_Statechart_DefinedPart_845(k!832(X0)))).
+tff(formula105, axiom,
+    ![X0: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noStateInRegion(X0) <=> $false)).
+tff(formula106, axiom,
+    ![X0: $i] : (tptp_fun_V_trg_1_14(X0) = $i!val!16)).
+tff(formula107, axiom,
+    ![X0: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoOutgoing(X0) <=> $false)).
+tff(formula108, axiom,
+    ![X0: $i] : (tptp_fun_B_13(X0) = $i!val!16)).
+tff(formula109, axiom,
+    (t_CompositeElement_833($i!val!8) <=> $true)).
+tff(formula110, axiom,
+    ![X0: $i] : ((~(($i!val!8 = X0))) => (t_CompositeElement_833(X0) <=> $false))).
+tff(formula111, axiom,
+    ![X0: $i] : (t_Statechart(X0) <=> t_Statechart_846(k!832(X0)))).
+tff(formula112, axiom,
+    (t_Entry_851($i!val!14) <=> $true)).
+tff(formula113, axiom,
+    ![X0: $i] : ((~(($i!val!14 = X0))) => (t_Entry_851(X0) <=> $false))).
+tff(formula114, axiom,
+    ![X0: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_noEntryInRegion(X0) <=> $false)).
+tff(formula115, axiom,
+    ![X0: $i] : (tptp_fun_B_12(X0) = $i!val!8)).
+tff(formula116, axiom,
+    ![X0: $i] : (t_State(X0) <=> $false)).
+tff(formula117, axiom,
+    ![X0: $i] : (tptp_fun_B_11(X0) = tptp_fun_B_11_847(k!832(X0)))).
+tff(formula118, axiom,
+    ![X0: $i, X1: $i, X2: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transition(X0, X1, X2) <=> $false)).
+tff(formula119, axiom,
+    (t_CompositeElement_DefinedPart_852($i!val!8) <=> $true)).
+tff(formula120, axiom,
+    ![X0: $i] : ((~(($i!val!8 = X0))) => (t_CompositeElement_DefinedPart_852(X0) <=> $false))).
+tff(formula121, axiom,
+    ![X0: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_choiceHasNoIncoming(X0) <=> $false)).
+tff(formula122, axiom,
+    ![X0: $i, X1: $i] : (r_source_Transition(X0, X1) <=> $false)).
+tff(formula123, axiom,
+    ![X0: $i] : (object(X0) <=> object_848(k!832(X0)))).
+tff(formula124, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_outgoingFromFinal(X0, X1) <=> $false)).
+tff(formula125, axiom,
+    (t_Pseudostate_835($i!val!14) <=> $true)).
+tff(formula126, axiom,
+    ![X0: $i] : ((~(($i!val!14 = X0))) => (t_Pseudostate_835(X0) <=> $false))).
+tff(formula127, axiom,
+    ![X0: $i] : (e_Normal_EntryType(X0) <=> e_Normal_EntryType_849(k!832(X0)))).
+tff(formula128, axiom,
+    (k!832($i!val!6) = $i!val!6)).
+tff(formula129, axiom,
+    (k!832($i!val!22) = $i!val!22)).
+tff(formula130, axiom,
+    (k!832($i!val!12) = $i!val!12)).
+tff(formula131, axiom,
+    (k!832($i!val!14) = $i!val!14)).
+tff(formula132, axiom,
+    (k!832($i!val!24) = $i!val!24)).
+tff(formula133, axiom,
+    (k!832($i!val!20) = $i!val!20)).
+tff(formula134, axiom,
+    (k!832($i!val!18) = $i!val!18)).
+tff(formula135, axiom,
+    (k!832($i!val!10) = $i!val!10)).
+tff(formula136, axiom,
+    (k!832($i!val!8) = $i!val!8)).
+tff(formula137, axiom,
+    (k!832($i!val!4) = $i!val!4)).
+tff(formula138, axiom,
+    (k!832($i!val!15) = $i!val!15)).
+tff(formula139, axiom,
+    (k!832($i!val!3) = $i!val!3)).
+tff(formula140, axiom,
+    (k!832($i!val!16) = $i!val!16)).
+tff(formula141, axiom,
+    (k!832($i!val!13) = $i!val!13)).
+tff(formula142, axiom,
+    (k!832($i!val!7) = $i!val!7)).
+tff(formula143, axiom,
+    (k!832($i!val!2) = $i!val!2)).
+tff(formula144, axiom,
+    (k!832($i!val!17) = $i!val!17)).
+tff(formula145, axiom,
+    (k!832($i!val!23) = $i!val!23)).
+tff(formula146, axiom,
+    (k!832($i!val!1) = $i!val!1)).
+tff(formula147, axiom,
+    (k!832($i!val!21) = $i!val!21)).
+tff(formula148, axiom,
+    (k!832($i!val!9) = $i!val!9)).
+tff(formula149, axiom,
+    (k!832($i!val!5) = $i!val!5)).
+tff(formula150, axiom,
+    (k!832($i!val!19) = $i!val!19)).
+tff(formula151, axiom,
+    (k!832($i!val!11) = $i!val!11)).
+tff(formula152, axiom,
+    ![X0: $i] : ((~((($i!val!6 = X0)) | (($i!val!22 = X0)) | (($i!val!12 = X0)) | (($i!val!14 = X0)) | (($i!val!24 = X0)) | (($i!val!20 = X0)) | (($i!val!18 = X0)) | (($i!val!10 = X0)) | (($i!val!8 = X0)) | (($i!val!4 = X0)) | (($i!val!15 = X0)) | (($i!val!3 = X0)) | (($i!val!16 = X0)) | (($i!val!13 = X0)) | (($i!val!7 = X0)) | (($i!val!2 = X0)) | (($i!val!17 = X0)) | (($i!val!23 = X0)) | (($i!val!1 = X0)) | (($i!val!21 = X0)) | (($i!val!9 = X0)) | (($i!val!5 = X0)) | (($i!val!19 = X0)) | (($i!val!11 = X0)))) => (k!832(X0) = $i!val!0))).
+tff(formula153, axiom,
+    ![X0: $i, X1: $i] : (r_pattern_ca_mcgill_ecse_dslreasoner_vampire_queries_transitionFrom(X0, X1) <=> $false)).
+tff(formula154, axiom,
+    ![X0: $i] : (tptp_fun_V_variable_e2_0(X0) = $i!val!16)).
+tff(formula155, axiom,
+    (t_Region_841($i!val!21) <=> $true)).
+tff(formula156, axiom,
+    (t_Region_841($i!val!24) <=> $true)).
+tff(formula157, axiom,
+    (t_Region_841($i!val!19) <=> $true)).
+tff(formula158, axiom,
+    (t_Region_841($i!val!16) <=> $true)).
+tff(formula159, axiom,
+    (t_Region_841($i!val!22) <=> $true)).
+tff(formula160, axiom,
+    (t_Region_841($i!val!18) <=> $true)).
+tff(formula161, axiom,
+    (t_Region_841($i!val!11) <=> $true)).
+tff(formula162, axiom,
+    (t_Region_841($i!val!20) <=> $true)).
+tff(formula163, axiom,
+    (t_Region_841($i!val!12) <=> $true)).
+tff(formula164, axiom,
+    (t_Region_841($i!val!10) <=> $true)).
+tff(formula165, axiom,
+    (t_Region_841($i!val!13) <=> $true)).
+tff(formula166, axiom,
+    (t_Region_841($i!val!9) <=> $true)).
+tff(formula167, axiom,
+    ![X0: $i] : ((~((($i!val!21 = X0)) | (($i!val!24 = X0)) | (($i!val!19 = X0)) | (($i!val!16 = X0)) | (($i!val!22 = X0)) | (($i!val!18 = X0)) | (($i!val!11 = X0)) | (($i!val!20 = X0)) | (($i!val!12 = X0)) | (($i!val!10 = X0)) | (($i!val!13 = X0)) | (($i!val!9 = X0)))) => (t_Region_841(X0) <=> $false))).
+tff(formula168, axiom,
+    (object_848($i!val!4) <=> $false)).
+tff(formula169, axiom,
+    (object_848($i!val!0) <=> $false)).
+tff(formula170, axiom,
+    (object_848($i!val!2) <=> $false)).
+tff(formula171, axiom,
+    (object_848($i!val!1) <=> $false)).
+tff(formula172, axiom,
+    (object_848($i!val!3) <=> $false)).
+tff(formula173, axiom,
+    ![X0: $i] : ((~((($i!val!4 = X0)) | (($i!val!0 = X0)) | (($i!val!2 = X0)) | (($i!val!1 = X0)) | (($i!val!3 = X0)))) => (object_848(X0) <=> $true))).
+tff(formula174, axiom,
+    ![X0: $i, X1: $i] : (r_regions_CompositeElement(X0, X1) <=> r_regions_CompositeElement_850(k!832(X1), k!832(X0)))).
+tff(formula175, axiom,
+    (e_o_1_844($i!val!8) <=> $true)).
+tff(formula176, axiom,
+    ![X0: $i] : ((~(($i!val!8 = X0))) => (e_o_1_844(X0) <=> $false))).
+tff(formula177, axiom,
+    ![X0: $i] : (t_Entry(X0) <=> t_Entry_851(k!832(X0)))).
+tff(formula178, axiom,
+    ![X0: $i, X1: $i] : (r_target_Transition(X0, X1) <=> $false)).
+tff(formula179, axiom,
+    (t_RegularState_840($i!val!23) <=> $true)).
+tff(formula180, axiom,
+    (t_RegularState_840($i!val!17) <=> $true)).
+tff(formula181, axiom,
+    (t_RegularState_840($i!val!15) <=> $true)).
+tff(formula182, axiom,
+    ![X0: $i] : ((~((($i!val!23 = X0)) | (($i!val!17 = X0)) | (($i!val!15 = X0)))) => (t_RegularState_840(X0) <=> $false))).
+tff(formula183, axiom,
+    ![X0: $i] : (tptp_fun_V_trg_1_15(X0) = $i!val!6)).
+tff(formula184, axiom,
+    ![X0: $i] : (t_CompositeElement_DefinedPart(X0) <=> t_CompositeElement_DefinedPart_852(k!832(X0)))).
+tff(formula185, axiom,
+    (t_Statechart_DefinedPart_845($i!val!8) <=> $true)).
+tff(formula186, axiom,
+    ![X0: $i] : ((~(($i!val!8 = X0))) => (t_Statechart_DefinedPart_845(X0) <=> $false))).
+% SZS output end Model
+
+% END OF SYSTEM OUTPUT
+% RESULT: SOT_QF3Ffk - Z3---4.4.1 says Satisfiable - CPU = 2.07 WC = 2.12 
+% OUTPUT: SOT_QF3Ffk - Z3---4.4.1 says Model - CPU = 2.07 WC = 2.13 

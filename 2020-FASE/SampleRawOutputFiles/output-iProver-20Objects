@@ -1,0 +1,3260 @@
+% START OF SYSTEM OUTPUT
+
+%---------------- iProver v2.5 (CASC-J8 2016) ----------------%
+
+%----------------          SAT mode           ----------------%
+
+Input problem: /tmp/PXu0HYwmRK/SOT_3FpAEg
+
+Solving is in progress.......
+warning: lib.ml: dbg_global_flag=false
+
+%---------------- iProver v2.8 (CASC-J9) ----------------%
+
+warning: orderings(opt): dbg_flag=true
+warning: parseFiles: dbg_flag=true
+warning: prop_lit_to_fof_flag: true
+warning: inference_rules: dbg_flag=true
+warning: LightNormalisationIndex: dbg_flag=true
+warning: simplify_new: dbg_flag=true
+warning: use_rec_defs_flag: true
+warning: def_merge_tr_red_non_prop_flag: true
+warning: finite_models commented: preprocess_after_flattening
+warning: superposition: dbg_flag=true
+warning: pred_elim_qbf: true
+warning: dbg_qbf_res_prep_flag: true
+
+------  iProver source info 
+
+git: date: 2019-08-06 21:42:08 +0100
+git: sha1: 40a8a16256d3ecd20373a60ca1f2247bf6326353
+git: non_committed_changes: true
+git: last_make_outside_of_git: false
+
+
+------ Parsing...
+------ Clausification by vclausify_rel  & Parsing by iProver...
+
+------ Preprocessing... sf_s  rm: 1 0s  sf_e  pe_s  pe:1:0s pe:2:0s pe:4:0s pe:8:0s pe:16:0s pe_e  sf_s  rm: 6 0s  sf_e  pe_s  pe:1:0s pe_e  sf_s  rm: 7 0s  sf_e  pe_s  pe_e 
+
+------ Preprocessing... gs_s  sp: 0 0s  gs_e  snvd_s sp: 0 0s snvd_e 
+
+------ Preprocessing... sf_s  rm: 1 0s  sf_e  sf_s  rm: 0 0s  sf_e 
+------ Proving...
+------ Problem Properties 
+
+
+clauses                                 315
+conjectures                             0
+EPR                                     298
+Horn                                    311
+unary                                   223
+binary                                  85
+lits                                    442
+lits eq                                 217
+
+------ Input Options Time Limit: Unbounded
+
+
+------ Finite Models:
+
+------ lit_activity_flag true
+
+
+------ Trying domains of size >= : 1
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+
+------ Trying domains of size >= : 2
+------ Current options:
+
+
+
+
+
+------ Proving...
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+------ Trying domains of size >= : 3
+
+
+------ Proving...
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+------ Trying domains of size >= : 4
+
+
+------ Proving...
+
+------ Trying domains of size >= : 5
+
+------ Trying domains of size >= : 5
+
+------ Trying domains of size >= : 5
+
+------ Trying domains of size >= : 5
+
+------ Trying domains of size >= : 5
+
+------ Trying domains of size >= : 5
+
+------ Trying domains of size >= : 5
+
+------ Trying domains of size >= : 5
+
+
+------ Proving...
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+------ Trying domains of size >= : 6
+
+
+------ Proving...
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+------ Trying domains of size >= : 7
+
+
+------ Proving...
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+------ Trying domains of size >= : 8
+
+
+------ Proving...
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+------ Trying domains of size >= : 9
+
+
+------ Proving...
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+------ Trying domains of size >= : 10
+
+
+------ Proving...
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+------ Trying domains of size >= : 11
+
+
+------ Proving...
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+------ Trying domains of size >= : 12
+
+
+------ Proving...
+
+------ Trying domains of size >= : 13
+
+------ Trying domains of size >= : 13
+
+------ Trying domains of size >= : 13
+
+------ Trying domains of size >= : 13
+
+------ Trying domains of size >= : 13
+
+------ Trying domains of size >= : 13
+
+------ Trying domains of size >= : 13
+
+------ Trying domains of size >= : 13
+
+
+------ Proving...
+
+------ Trying domains of size >= : 14
+
+------ Trying domains of size >= : 14
+
+------ Trying domains of size >= : 14
+
+------ Trying domains of size >= : 14
+
+------ Trying domains of size >= : 14
+
+------ Trying domains of size >= : 14
+
+------ Trying domains of size >= : 14
+
+
+------ Proving...
+
+------ Trying domains of size >= : 15
+
+------ Trying domains of size >= : 15
+
+------ Trying domains of size >= : 15
+
+------ Trying domains of size >= : 15
+
+------ Trying domains of size >= : 15
+
+------ Trying domains of size >= : 15
+
+
+------ Proving...
+
+------ Trying domains of size >= : 16
+
+------ Trying domains of size >= : 16
+
+------ Trying domains of size >= : 16
+
+------ Trying domains of size >= : 16
+
+------ Trying domains of size >= : 16
+
+
+------ Proving...
+
+------ Trying domains of size >= : 17
+
+------ Trying domains of size >= : 17
+
+------ Trying domains of size >= : 17
+
+------ Trying domains of size >= : 17
+
+
+------ Proving...
+
+------ Trying domains of size >= : 18
+
+------ Trying domains of size >= : 18
+
+------ Trying domains of size >= : 18
+
+
+------ Proving...
+
+------ Trying domains of size >= : 19
+
+------ Trying domains of size >= : 19
+
+
+------ Proving...
+
+------ Trying domains of size >= : 20
+
+
+------ Proving...
+
+
+% SZS status Satisfiable
+
+------ Building Model...Done
+
+%------ The model is defined over ground terms (initial term algebra).
+%------ Predicates are defined as (\forall x_1,..,x_n  ((~)P(x_1,..,x_n) <=> (\phi(x_1,..,x_n)))) 
+%------ where \phi is a formula over the term algebra.
+%------ If we have equality in the problem then it is also defined as a predicate above, 
+%------ with "=" on the right-hand-side of the definition interpreted over the term algebra term_algebra_type
+%------ See help for --sat_out_model for different model outputs.
+%------ equality_sorted(X0,X1,X2) can be used in the place of usual "="
+%------ where the first argument stands for the sort ($i in the unsorted case)
+
+
+% SZS output start Model 
+
+
+%------ Negative definition of equality_sorted 
+fof(lit_def,axiom,
+    (! [X0,X0,X1] : 
+      ( ~(equality_sorted(X0,X0,X1)) <=>
+           (
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_1 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_2 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_3 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_4 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_5 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_6 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_7 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_8 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_9 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_10 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_11 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_12 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_13 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_14 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_15 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_16 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_17 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_19 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_18 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_19 & X1=iProver_Domain_$i_20 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_4 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_5 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_6 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_7 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_8 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_9 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_10 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_11 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_12 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_13 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_14 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_15 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_16 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_17 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_18 )
+              )
+
+             | 
+              (
+                ( X0=$i & X0=iProver_Domain_$i_20 & X1=iProver_Domain_$i_19 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of e_DeepHistory_EntryType 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( e_DeepHistory_EntryType(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of e_History_EntryType 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( e_History_EntryType(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of e_Normal_EntryType 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( e_Normal_EntryType(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of object 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( object(X0) <=>
+          $true
+      )
+    )
+   ).
+
+%------ Positive definition of e_o_1 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( e_o_1(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of t_CompositeElement 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( t_CompositeElement(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of t_Vertex 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( t_Vertex(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of sP9 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP9(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of sP8 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP8(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Negative definition of sP7 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( ~(sP7(X0)) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+             | 
+              (
+                ( X0=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=iProver_Domain_$i_4 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of sP6 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP6(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of sP5 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP5(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_2 )
+              )
+
+             | 
+              (
+                ( X0=iProver_Domain_$i_3 )
+              )
+
+             | 
+              (
+                ( X0=iProver_Domain_$i_4 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of sP4 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP4(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of sP3 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP3(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of sP2 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP2(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of r_outgoingTransitions_Vertex 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( r_outgoingTransitions_Vertex(X0,X1) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of r_vertices_Region 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( r_vertices_Region(X0,X1) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of r_target_Transition 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( r_target_Transition(X0,X1) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of r_source_Transition 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( r_source_Transition(X0,X1) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of r_regions_CompositeElement 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( r_regions_CompositeElement(X0,X1) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+               &
+                ( X1!=iProver_Domain_$i_1 )
+               &
+                ( X1!=iProver_Domain_$i_2 )
+               &
+                ( X1!=iProver_Domain_$i_3 )
+               &
+                ( X1!=iProver_Domain_$i_4 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of r_Type_Entry 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( r_Type_Entry(X0,X1) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of sP12 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( sP12(X0) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_eo1 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_eo1(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_4 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_eo2 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_eo2(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_3 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_eo3 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_eo3(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_2 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_eo4 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_eo4(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK13 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( ~(iProver_Flat_sK13(X0)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK14 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( ~(iProver_Flat_sK14(X0)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK15 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( ~(iProver_Flat_sK15(X0)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK16 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( ~(iProver_Flat_sK16(X0)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK17 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( ~(iProver_Flat_sK17(X0)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_sK18 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_sK18(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK19 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( ~(iProver_Flat_sK19(X0,X1)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK20 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( ~(iProver_Flat_sK20(X0,X1)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK21 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( ~(iProver_Flat_sK21(X0,X1)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_sK22 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( iProver_Flat_sK22(X0,X1) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_sK23 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( iProver_Flat_sK23(X0,X1) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK24 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( ~(iProver_Flat_sK24(X0,X1)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_sK25 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( iProver_Flat_sK25(X0,X1) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_sK26 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( iProver_Flat_sK26(X0,X1) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_sK27 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( iProver_Flat_sK27(X0,X1) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK28 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( ~(iProver_Flat_sK28(X0,X1)) <=>
+          $false
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o16 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o16(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_20 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o15 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o15(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_19 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o14 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o14(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_18 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o13 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o13(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_17 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o12 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o12(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_16 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o11 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o11(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_15 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o10 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o10(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_14 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o9 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o9(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_13 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o8 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o8(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_12 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o7 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o7(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_11 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o6 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o6(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_10 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o5 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o5(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_9 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o4 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o4(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_8 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o3 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o3(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_7 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o2 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o2(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_6 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_o1 
+fof(lit_def,axiom,
+    (! [X0] : 
+      ( iProver_Flat_o1(X0) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_5 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Positive definition of iProver_Flat_sK29 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( iProver_Flat_sK29(X0,X1) <=>
+           (
+              (
+                ( X0=iProver_Domain_$i_1 )
+              )
+
+           )
+      )
+    )
+   ).
+
+%------ Negative definition of iProver_Flat_sK30 
+fof(lit_def,axiom,
+    (! [X0,X1] : 
+      ( ~(iProver_Flat_sK30(X0,X1)) <=>
+          $false
+      )
+    )
+   ).
+
+
+% SZS output end Model 
+
+------                             Statistics
+
+------ General
+
+abstr_ref_cycles:                       0
+gc_basic_clause_elim:                   0
+forced_gc_time:                         0
+parsing_time:                           0.028
+unif_index_cands_time:                  0.002
+unif_index_add_time:                    0.002
+out_proof_time:                         0.
+total_time:                             0.875
+num_of_symbols:                         394
+num_of_terms:                           7292
+
+------ Preprocessing
+
+num_of_splits:                          0
+num_of_split_atoms:                     0
+num_of_reused_defs:                     0
+num_eq_ax_congr_red:                    89
+num_of_sem_filtered_clauses:            1
+num_of_subtypes:                        1
+monotx_restored_types:                  1
+sat_num_of_epr_types:                   0
+sat_num_of_non_cyclic_types:            0
+sat_guarded_non_collapsed_types:        1
+num_pure_diseq_elim:                    0
+simp_replaced_by:                       0
+res_preprocessed:                       1739
+prep_upred:                             0
+prep_unflattend:                        768
+pred_elim_cands:                        16
+pred_elim:                              26
+pred_elim_cl:                           123
+pred_elim_cycles:                       64
+merged_defs:                            20
+merged_defs_ncl:                        145
+prep_cycles:                            5
+pred_elim_time:                         0.243
+splitting_time:                         0.
+sem_filter_time:                        0.013
+monotx_time:                            0.
+subtype_inf_time:                       0.
+
+------ Problem properties
+
+clauses:                                315
+conjectures:                            0
+epr:                                    298
+horn:                                   311
+unary:                                  223
+binary:                                 85
+lits:                                   442
+lits_eq:                                217
+
+------ Propositional Solver
+
+prop_solver_calls:                      211
+prop_fast_solver_calls:                 10345
+prop_num_of_clauses:                    8900
+prop_preprocess_simplified:             82707
+prop_fo_subsumed:                       951
+prop_solver_time:                       0.036
+prop_fast_solver_time:                  0.03
+prop_unsat_core_time:                   0.032
+
+------ QBF 
+
+qbf_q_res:                              0
+qbf_num_tautologies:                    0
+qbf_prep_cycles:                        0
+
+------ BMC1
+
+bmc1_current_bound:                     -1
+bmc1_last_solved_bound:                 -1
+bmc1_unsat_core_size:                   -1
+bmc1_unsat_core_parents_size:           -1
+bmc1_merge_next_fun:                    0
+bmc1_unsat_core_clauses_time:           0.
+
+------ Instantiation
+
+inst_num_of_clauses:                    1378
+inst_num_in_passive:                    0
+inst_num_in_active:                     1378
+inst_num_in_unprocessed:                0
+inst_num_of_loops:                      1469
+inst_num_of_learning_restarts:          0
+inst_num_moves_active_passive:          52
+inst_lit_activity:                      0
+inst_lit_activity_moves:                0
+inst_num_tautologies:                   0
+inst_num_prop_implied:                  0
+inst_num_existing_simplified:           0
+inst_num_eq_res_simplified:             0
+inst_num_child_elim:                    0
+inst_num_of_dismatching_blockings:      0
+inst_num_of_non_proper_insts:           657
+inst_num_of_duplicates:                 120
+inst_inst_num_from_inst_to_res:         0
+inst_dismatching_checking_time:         0.006
+
+------ Resolution
+
+res_num_of_clauses:                     0
+res_num_in_passive:                     0
+res_num_in_active:                      0
+res_num_of_loops:                       1744
+res_forward_subset_subsumed:            415
+res_backward_subset_subsumed:           4
+res_forward_subsumed:                   91
+res_backward_subsumed:                  13
+res_forward_subsumption_resolution:     4
+res_backward_subsumption_resolution:    8
+res_clause_to_clause_subsumption:       618
+res_orphan_elimination:                 0
+res_tautology_del:                      513
+res_num_eq_res_simplified:              0
+res_num_sel_changes:                    0
+res_moves_from_active_to_pass:          0
+
+------ Superposition
+
+sup_num_of_clauses:                     0
+sup_num_in_active:                      0
+sup_num_in_passive:                     0
+sup_num_of_loops:                       0
+sup_fw_superposition:                   0
+sup_bw_superposition:                   0
+sup_immediate_simplified:               0
+sup_given_eliminated:                   0
+comparisons_done:                       0
+comparisons_avoided:                    0
+
+------ Simplifications
+
+
+sim_fw_subset_subsumed:                 0
+sim_bw_subset_subsumed:                 0
+sim_fw_subsumed:                        0
+sim_bw_subsumed:                        0
+sim_fw_subsumption_res:                 0
+sim_bw_subsumption_res:                 0
+sim_tautology_del:                      0
+sim_eq_tautology_del:                   0
+sim_eq_res_simp:                        0
+sim_fw_demodulated:                     0
+sim_bw_demodulated:                     0
+sim_light_normalised:                   0
+
+/home/tptp/Systems/iProver---SAT-3.0/iprover_sat_single.sh: line 74: 32466 Killed                  "$PROVER" $1 --time_out_real $2 $INP >> $3 2> /dev/null
+/home/tptp/Systems/iProver---SAT-3.0/iprover_sat_single.sh: line 74: 32461 Killed                  "$PROVER" $1 --time_out_real $2 $INP >> $3 2> /dev/null
+/home/tptp/Systems/iProver---SAT-3.0/iprover_sat_single.sh: line 74: 32465 Killed                  "$PROVER" $1 --time_out_real $2 $INP >> $3 2> /dev/null
+USED TIME: 6.22 CPU 1.66 WC
+
+% END OF SYSTEM OUTPUT
+% RESULT: SOT_3FpAEg - iProver---SAT-3.0 says Satisfiable - CPU = 5.09 WC = 1.32  ILoops = 1469 RLoops = 1744 PropCalls = 211
+% OUTPUT: SOT_3FpAEg - iProver---SAT-3.0 says Model - CPU = 5.37 WC = 1.39 
